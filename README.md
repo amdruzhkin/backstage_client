@@ -1,2 +1,1 @@
-# backstage_client
-Backstage Client
+# Backstage Client
